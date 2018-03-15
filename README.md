@@ -1,2 +1,7 @@
-# Didi_data_visualization
-使用javascript+PHP+MySQL搭建网站平台，通过调用百度地图API和echart.js相结合，动态展示对应点位当前呼叫动态数据。
+﻿# Didi_data_visualization
+
+## 项目介绍
+项目使用javascript+PHP+MySQL搭建基于网站的数据可视化展示平台，动态展示不同区域当前实时呼叫动态数据。
+## 项目展示及功能模块
+![Alt text](https://github.com/hy835047657/Didi_data_visualization/raw/master/s1.png)
+![Alt text](https://github.com/hy835047657/Didi_data_visualization/raw/master/s2.png)
