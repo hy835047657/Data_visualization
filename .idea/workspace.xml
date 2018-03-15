@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28a51adb-cb06-4391-a682-9124ec5d2fd8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="mapurmq.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mapurmq.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <marker date="1510134098125" expanded="true" signature="4579:4650" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="8842:8899" ph="select locat... areatable" />
+                <marker date="1510134098125" expanded="true" signature="9023:9076" ph="select locat... areatable" />
+                <marker date="1510134098125" expanded="true" signature="9023:9082" ph="select locat... areatable" />
+                <marker date="1510134098125" expanded="true" signature="9141:9198" ph="select locat... areatable" />
+                <marker date="1510134098125" expanded="true" signature="9260:9318" ph="select locat... areatable" />
+                <marker date="1510134098125" expanded="true" signature="9377:9435" ph="select locat... areatable" />
+                <marker date="1510134098125" expanded="true" signature="9864:9925" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="9864:9962" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="10082:10143" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="10082:10167" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="10285:10377" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="10495:10587" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="10705:10797" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="10915:11007" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="11125:11217" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="11335:11427" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="11545:11637" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="11755:11847" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="11965:12057" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="12176:12268" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="12387:12479" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="12597:12689" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="12807:12899" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="13017:13109" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="13227:13319" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="13570:13662" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="13782:13874" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="13992:14084" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="14202:14294" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="14412:14504" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="14622:14714" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="14832:14924" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="15042:15134" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="15252:15344" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="15462:15554" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="15672:15764" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="15883:15975" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="16094:16186" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="16304:16396" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="16514:16606" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="16724:16816" ph="insert into didi" />
+                <marker date="1510134098125" expanded="true" signature="16934:17026" ph="insert into didi" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addlocation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addlocation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <marker date="1509883421475" expanded="true" signature="516:571" ph="select locat... areatable" />
+                <marker date="1509883421475" expanded="true" signature="610:667" ph="select locat... areatable" />
+                <marker date="1509883421475" expanded="true" signature="707:762" ph="select locat... areatable" />
+                <marker date="1509883421475" expanded="true" signature="801:857" ph="select locat... areatable" />
+                <marker date="1509883421475" expanded="true" signature="896:952" ph="select locat... areatable" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="backend.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3672">
+              <caret line="136" column="56" lean-forward="false" selection-start-line="136" selection-start-column="56" selection-end-line="136" selection-end-column="56" />
+              <folding>
+                <marker date="1509920719444" expanded="true" signature="4440:4486" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="4523:4569" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="4606:4653" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="4690:4737" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="4774:4821" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="4858:4904" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="4941:4986" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="5023:5071" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="5108:5154" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="5191:5236" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="5273:5318" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="5358:5402" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="5439:5482" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="5519:5562" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="5599:5644" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="5681:5726" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="5763:5807" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="5844:5888" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="5925:5969" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="6006:6050" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="6087:6131" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="6168:6213" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="6250:6292" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="6329:6377" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="6414:6462" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="6499:6542" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="6579:6622" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="6659:6703" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="6740:6783" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="6823:6868" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="6905:6950" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="6987:7032" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="7069:7114" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="7151:7196" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="7233:7279" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="7316:7362" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="7399:7444" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="7484:7530" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="7567:7613" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="7650:7695" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="7732:7777" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="7814:7859" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="7896:7942" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="7979:8023" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="8060:8106" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="8143:8188" ph="insert into areatable" />
+                <marker date="1509920719444" expanded="true" signature="8233:8290" ph="select locat... areatable" />
+                <marker date="1509920719444" expanded="true" signature="8330:8389" ph="select locat... areatable" />
+                <marker date="1509920719444" expanded="true" signature="8429:8486" ph="select locat... areatable" />
+                <marker date="1509920719444" expanded="true" signature="8526:8584" ph="select locat... areatable" />
+                <marker date="1509920719444" expanded="true" signature="8624:8682" ph="select locat... areatable" />
+                <marker date="1509920719444" expanded="true" signature="9071:9122" ph="..." />
+                <marker date="1509920719444" expanded="false" signature="9203:9253" ph="..." />
+                <marker date="1509920719444" expanded="false" signature="9346:9396" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <marker date="1510140991157" expanded="true" signature="577:625" ph="select * fro... manager" />
+                <marker date="1510140991157" expanded="true" signature="1079:1124" ph="select * fro... manager" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="randomnum.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/randomnum.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2484">
+              <caret line="92" column="97" lean-forward="false" selection-start-line="92" selection-start-column="86" selection-end-line="92" selection-end-column="97" />
+              <folding>
+                <marker date="1509794944080" expanded="true" signature="626:685" ph="select locat... areatable" />
+                <marker date="1509794944080" expanded="true" signature="725:782" ph="select locat... areatable" />
+                <marker date="1509794944080" expanded="true" signature="822:880" ph="select locat... areatable" />
+                <marker date="1509794944080" expanded="true" signature="920:978" ph="select locat... areatable" />
+                <marker date="1509794944080" expanded="true" signature="1558:1646" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="1726:1814" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="1892:1980" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="2058:2146" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="2224:2312" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="2390:2478" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="2556:2644" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="2722:2810" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="2888:2976" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="3054:3142" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="3220:3308" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="3387:3475" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="3554:3642" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="3720:3808" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="3886:3974" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="4052:4140" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="4218:4306" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="4549:4637" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="4717:4805" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="4883:4971" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="5049:5137" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="5215:5303" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="5381:5469" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="5547:5635" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="5713:5801" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="5879:5967" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="6045:6133" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="6211:6299" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="6378:6466" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="6545:6633" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="6711:6799" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="6877:6965" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="7043:7131" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="7209:7297" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="7540:7627" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="7707:7794" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="7872:7959" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="8037:8124" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="8202:8289" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="8367:8454" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="8532:8619" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="8697:8784" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="8862:8949" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="9027:9114" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="9192:9279" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="9358:9445" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="9524:9611" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="9689:9776" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="9854:9941" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="10019:10106" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="10184:10271" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="10497:10585" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="10657:10745" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="10815:10903" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="10973:11061" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="11131:11219" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="11289:11377" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="11447:11535" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="11605:11693" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="11763:11851" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="11921:12009" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="12079:12167" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="12238:12326" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="12397:12485" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="12555:12643" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="12713:12801" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="12871:12959" ph="insert into didi" />
+                <marker date="1509794944080" expanded="true" signature="13029:13117" ph="insert into didi" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1836">
+              <caret line="68" column="35" lean-forward="false" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3456">
+              <caret line="128" column="14" lean-forward="true" selection-start-line="128" selection-start-column="14" selection-end-line="128" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1509921619739" expanded="false" signature="4478:4528" ph="..." />
+                <marker date="1509921619739" expanded="false" signature="4621:4671" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xinshiqu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xinshiqu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6048">
+              <caret line="224" column="27" lean-forward="true" selection-start-line="224" selection-start-column="27" selection-end-line="224" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loaddata.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loaddata.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="34" column="15" lean-forward="false" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>center</find>
+      <find>p</find>
+      <find>分钟</find>
+      <find>40</find>
+      <find>oee</find>
+      <find>setop</find>
+      <find>setspeed</find>
+      <find>pieces</find>
+      <find>piece</find>
+      <find>check</find>
+      <find>input</find>
+      <find>button</find>
+      <find>uid</find>
+      <find>userid</find>
+      <find>confirm</find>
+      <find>name</find>
+      <find>addlocation</find>
+      <find>delete</find>
+      <find>userID</find>
+      <find>addlocatinon</find>
+      <find>location</find>
+      <find>i</find>
+      <find>天山区</find>
+      <find>grid</find>
+      <find>add</find>
+      <find>ajaz</find>
+      <find>h1</find>
+      <find>data.js</find>
+      <find>chkinput</find>
+      <find>logo</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/loaddata.html" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/chart.html" />
+        <option value="$PROJECT_DIR$/data.json" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/map.html" />
+        <option value="$PROJECT_DIR$/js/echarts-gl.js" />
+        <option value="$PROJECT_DIR$/line-bus.json" />
+        <option value="$PROJECT_DIR$/mapt.html" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/mapurmq.html" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/logout.html" />
+        <option value="$PROJECT_DIR$/try.html" />
+        <option value="$PROJECT_DIR$/backend.html" />
+        <option value="$PROJECT_DIR$/pdateu.php" />
+        <option value="$PROJECT_DIR$/update1.php" />
+        <option value="$PROJECT_DIR$/update.php" />
+        <option value="$PROJECT_DIR$/chartdata1.1.php" />
+        <option value="$PROJECT_DIR$/randomnum.php" />
+        <option value="$PROJECT_DIR$/chartdata2.php" />
+        <option value="$PROJECT_DIR$/chartdata5.php" />
+        <option value="$PROJECT_DIR$/chartdata4.php" />
+        <option value="$PROJECT_DIR$/addlocation.php" />
+        <option value="$PROJECT_DIR$/addlocation1.php" />
+        <option value="$PROJECT_DIR$/logoutt.php" />
+        <option value="$PROJECT_DIR$/deletelocation.php" />
+        <option value="$PROJECT_DIR$/adddata.php" />
+        <option value="$PROJECT_DIR$/xinshiqu.php" />
+        <option value="$PROJECT_DIR$/toutunhe.php" />
+        <option value="$PROJECT_DIR$/tianshan.php" />
+        <option value="$PROJECT_DIR$/shuimogou.php" />
+        <option value="$PROJECT_DIR$/shaqu.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/backend.php" />
+        <option value="$PROJECT_DIR$/backend1.php" />
+        <option value="$PROJECT_DIR$/backend2.php" />
+        <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/data.json.php" />
+        <option value="$PROJECT_DIR$/mapurmq.php" />
+        <option value="$PROJECT_DIR$/chartdata.php" />
+        <option value="$PROJECT_DIR$/chartdata3.php" />
+        <option value="$PROJECT_DIR$/chartdata1.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="165" />
+    <option name="y" value="115" />
+    <option name="width" value="980" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="showData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="showData" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="showData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="showData" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="image" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/SQL Dialects" value="MySQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\huyue\WebstormProjects\showData\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\huyue\WebstormProjects\showData\image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28a51adb-cb06-4391-a682-9124ec5d2fd8" name="Default" comment="" />
+      <created>1505723078225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505723078225</updated>
+      <workItem from="1505723079725" duration="586000" />
+      <workItem from="1505723939360" duration="16258000" />
+      <workItem from="1505822405823" duration="2347000" />
+      <workItem from="1505877984849" duration="12984000" />
+      <workItem from="1505964801947" duration="7373000" />
+      <workItem from="1506053454871" duration="17281000" />
+      <workItem from="1506310624985" duration="28491000" />
+      <workItem from="1506399536034" duration="21447000" />
+      <workItem from="1506483285695" duration="15461000" />
+      <workItem from="1506505342003" duration="4975000" />
+      <workItem from="1506569716597" duration="20522000" />
+      <workItem from="1506656481031" duration="20375000" />
+      <workItem from="1506742064560" duration="9291000" />
+      <workItem from="1506752107067" duration="5173000" />
+      <workItem from="1506758070063" duration="1404000" />
+      <workItem from="1506759513265" duration="6229000" />
+      <workItem from="1506768218619" duration="464000" />
+      <workItem from="1506768713233" duration="1337000" />
+      <workItem from="1506770089112" duration="956000" />
+      <workItem from="1506771878078" duration="1742000" />
+      <workItem from="1506779573480" duration="317000" />
+      <workItem from="1507094128881" duration="836000" />
+      <workItem from="1507519691301" duration="8705000" />
+      <workItem from="1507537499298" duration="23560000" />
+      <workItem from="1507706985538" duration="59000" />
+      <workItem from="1507875655758" duration="6671000" />
+      <workItem from="1508141642719" duration="547000" />
+      <workItem from="1508228310653" duration="15689000" />
+      <workItem from="1508440464866" duration="7020000" />
+      <workItem from="1508515823267" duration="12905000" />
+      <workItem from="1508536382234" duration="1646000" />
+      <workItem from="1508701074265" duration="17925000" />
+      <workItem from="1508770236766" duration="8377000" />
+      <workItem from="1508944885221" duration="1994000" />
+      <workItem from="1509007632339" duration="26991000" />
+      <workItem from="1509042076208" duration="9321000" />
+      <workItem from="1509305359890" duration="1342000" />
+      <workItem from="1509529639928" duration="39031000" />
+      <workItem from="1509793679112" duration="21674000" />
+      <workItem from="1509873966037" duration="20033000" />
+      <workItem from="1509905437115" duration="15997000" />
+      <workItem from="1509961868531" duration="6949000" />
+      <workItem from="1510005270671" duration="16383000" />
+      <workItem from="1515434791152" duration="1301000" />
+      <workItem from="1515493044786" duration="227000" />
+      <workItem from="1516108216677" duration="2029000" />
+      <workItem from="1516473787126" duration="622000" />
+      <workItem from="1517932904380" duration="918000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="463765000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22678186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32867134" sideWeight="0.5064795" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32867134" sideWeight="0.49352053" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/loaddata.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html" />
+    <entry file="file://$PROJECT_DIR$/loaddata.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3834">
+          <caret line="142" column="0" lean-forward="false" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/login.html" />
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/js/echarts-gl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395657">
+          <caret line="51691" column="29" lean-forward="false" selection-start-line="51691" selection-start-column="29" selection-end-line="51691" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chart.html" />
+    <entry file="file://$PROJECT_DIR$/image/sidebar-bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-2.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="1" column="416" lean-forward="false" selection-start-line="1" selection-start-column="416" selection-end-line="1" selection-end-column="416" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapt.html" />
+    <entry file="file://$PROJECT_DIR$/line-bus.json" />
+    <entry file="file://$PROJECT_DIR$/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="339895" lean-forward="false" selection-start-line="0" selection-start-column="339895" selection-end-line="0" selection-end-column="339895" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdateu.php" />
+    <entry file="file://$PROJECT_DIR$/chartdata1.1.php" />
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="118" column="8" lean-forward="false" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chartdata4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="71" column="89" lean-forward="false" selection-start-line="71" selection-start-column="89" selection-end-line="71" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html" />
+    <entry file="file://$PROJECT_DIR$/deletelocation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addlocation1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1356">
+          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shuimogou.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="530" column="22" lean-forward="false" selection-start-line="530" selection-start-column="22" selection-end-line="530" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shaqu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="517" column="32" lean-forward="false" selection-start-line="517" selection-start-column="32" selection-end-line="517" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logoutt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7695">
+          <caret line="285" column="51" lean-forward="false" selection-start-line="285" selection-start-column="51" selection-end-line="285" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chartdata5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="73" column="89" lean-forward="false" selection-start-line="73" selection-start-column="89" selection-end-line="73" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="453" column="16" lean-forward="false" selection-start-line="453" selection-start-column="13" selection-end-line="453" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-962">
+          <caret line="58" column="190" lean-forward="true" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="197" column="46" lean-forward="true" selection-start-line="165" selection-start-column="4" selection-end-line="197" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="341323" lean-forward="false" selection-start-line="0" selection-start-column="341323" selection-end-line="0" selection-end-column="341323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="205" column="21" lean-forward="true" selection-start-line="205" selection-start-column="21" selection-end-line="205" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adddata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="75" column="106" lean-forward="false" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="106" />
+          <folding>
+            <marker date="1509916870264" expanded="true" signature="906:1050" ph="UPDATE didi " />
+            <marker date="1509916870264" expanded="true" signature="1139:1186" ph="select locat... didi" />
+            <marker date="1509916870264" expanded="true" signature="1274:1319" ph="select locat... didi" />
+            <marker date="1509916870264" expanded="true" signature="1407:1452" ph="select locat... didi" />
+            <marker date="1509916870264" expanded="true" signature="1540:1585" ph="select locat... didi" />
+            <marker date="1509916870264" expanded="true" signature="1673:1787" ph="select extim... didi" />
+            <marker date="1509916870264" expanded="true" signature="2211:2262" ph="select * fro... didi" />
+            <marker date="1509916870264" expanded="true" signature="2211:2267" ph="update didi " />
+            <marker date="1509916870264" expanded="true" signature="2211:2320" ph="update didi " />
+            <marker date="1509916870264" expanded="true" signature="2364:2475" ph="update didi " />
+            <marker date="1509916870264" expanded="true" signature="2522:2638" ph="update didi " />
+            <marker date="1509916870264" expanded="true" signature="2682:2801" ph="update didi " />
+            <marker date="1509916870264" expanded="true" signature="2845:2953" ph="update didi " />
+            <marker date="1509916870264" expanded="true" signature="2997:3104" ph="update didi " />
+            <marker date="1509916870264" expanded="true" signature="3169:3240" ph="insert into didi... " />
+            <marker date="1509916870264" expanded="true" signature="3285:3347" ph="insert into didi... " />
+            <marker date="1509916870264" expanded="true" signature="3285:3358" ph="insert into didi... " />
+            <marker date="1509916870264" expanded="true" signature="3403:3481" ph="insert into didi... " />
+            <marker date="1509916870264" expanded="true" signature="3526:3590" ph="insert into didi... " />
+            <marker date="1509916870264" expanded="true" signature="3526:3607" ph="insert into didi... " />
+            <marker date="1509916870264" expanded="true" signature="3652:3712" ph="insert into didi... " />
+            <marker date="1509916870264" expanded="true" signature="3652:3722" ph="insert into didi... " />
+            <marker date="1509916870264" expanded="true" signature="3767:3829" ph="insert into didi... " />
+            <marker date="1509916870264" expanded="true" signature="3767:3836" ph="insert into didi... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chartdata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chartdata3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toutunhe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="826" column="28" lean-forward="true" selection-start-line="826" selection-start-column="28" selection-end-line="826" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chartdata1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <marker date="1510138654356" expanded="true" signature="995:1072" ph="select locat... didi" />
+            <marker date="1510138654356" expanded="true" signature="995:1082" ph="select locat... didi" />
+            <marker date="1510138654356" expanded="true" signature="995:1087" ph="select locat... didi" />
+            <marker date="1510138654356" expanded="true" signature="995:1095" ph="select locat... didi" />
+            <marker date="1510138654356" expanded="true" signature="1126:1197" ph="select locat... areatable" />
+            <marker date="1510138654356" expanded="true" signature="1259:1318" ph="UPDATE `area... " />
+            <marker date="1510138654356" expanded="true" signature="1360:1430" ph="insert into `areatable`... " />
+            <marker date="1510138654356" expanded="true" signature="1476:1544" ph="insert into `areatable`... " />
+            <marker date="1510138654356" expanded="true" signature="1590:1658" ph="insert into `areatable`... " />
+            <marker date="1510138654356" expanded="true" signature="1701:1769" ph="insert into `areatable`... " />
+            <marker date="1510138654356" expanded="true" signature="1812:1881" ph="insert into `areatable`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tianshan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14121">
+          <caret line="523" column="22" lean-forward="false" selection-start-line="523" selection-start-column="22" selection-end-line="523" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chartdata2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2673">
+          <caret line="99" column="1" lean-forward="false" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
+          <folding>
+            <marker date="1509800053344" expanded="true" signature="1002:1094" ph="select locat... didi" />
+            <marker date="1509800053344" expanded="true" signature="1133:1204" ph="select locat... areatable" />
+            <marker date="1509800053344" expanded="true" signature="1257:1325" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="1368:1436" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="1479:1547" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="1590:1659" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="1702:1772" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="1815:1884" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="1927:1996" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="2039:2106" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="2149:2218" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="2261:2330" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="2373:2443" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="2486:2553" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="2596:2669" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="2712:2783" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="2826:2894" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="2937:3005" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="3048:3117" ph="insert into `areatable`... " />
+            <marker date="1509800053344" expanded="true" signature="3160:3228" ph="insert into `areatable`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loaddata.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="15" lean-forward="false" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3672">
+          <caret line="136" column="56" lean-forward="false" selection-start-line="136" selection-start-column="56" selection-end-line="136" selection-end-column="56" />
+          <folding>
+            <marker date="1509920719444" expanded="true" signature="4440:4486" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="4523:4569" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="4606:4653" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="4690:4737" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="4774:4821" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="4858:4904" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="4941:4986" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="5023:5071" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="5108:5154" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="5191:5236" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="5273:5318" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="5358:5402" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="5439:5482" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="5519:5562" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="5599:5644" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="5681:5726" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="5763:5807" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="5844:5888" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="5925:5969" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="6006:6050" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="6087:6131" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="6168:6213" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="6250:6292" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="6329:6377" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="6414:6462" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="6499:6542" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="6579:6622" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="6659:6703" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="6740:6783" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="6823:6868" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="6905:6950" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="6987:7032" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="7069:7114" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="7151:7196" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="7233:7279" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="7316:7362" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="7399:7444" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="7484:7530" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="7567:7613" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="7650:7695" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="7732:7777" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="7814:7859" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="7896:7942" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="7979:8023" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="8060:8106" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="8143:8188" ph="insert into areatable" />
+            <marker date="1509920719444" expanded="true" signature="8233:8290" ph="select locat... areatable" />
+            <marker date="1509920719444" expanded="true" signature="8330:8389" ph="select locat... areatable" />
+            <marker date="1509920719444" expanded="true" signature="8429:8486" ph="select locat... areatable" />
+            <marker date="1509920719444" expanded="true" signature="8526:8584" ph="select locat... areatable" />
+            <marker date="1509920719444" expanded="true" signature="8624:8682" ph="select locat... areatable" />
+            <marker date="1509920719444" expanded="true" signature="9071:9122" ph="..." />
+            <marker date="1509920719444" expanded="false" signature="9203:9253" ph="..." />
+            <marker date="1509920719444" expanded="false" signature="9346:9396" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1510140991157" expanded="true" signature="577:625" ph="select * fro... manager" />
+            <marker date="1510140991157" expanded="true" signature="1079:1124" ph="select * fro... manager" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="68" column="35" lean-forward="false" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randomnum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="92" column="97" lean-forward="false" selection-start-line="92" selection-start-column="86" selection-end-line="92" selection-end-column="97" />
+          <folding>
+            <marker date="1509794944080" expanded="true" signature="626:685" ph="select locat... areatable" />
+            <marker date="1509794944080" expanded="true" signature="725:782" ph="select locat... areatable" />
+            <marker date="1509794944080" expanded="true" signature="822:880" ph="select locat... areatable" />
+            <marker date="1509794944080" expanded="true" signature="920:978" ph="select locat... areatable" />
+            <marker date="1509794944080" expanded="true" signature="1558:1646" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="1726:1814" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="1892:1980" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="2058:2146" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="2224:2312" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="2390:2478" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="2556:2644" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="2722:2810" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="2888:2976" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="3054:3142" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="3220:3308" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="3387:3475" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="3554:3642" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="3720:3808" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="3886:3974" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="4052:4140" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="4218:4306" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="4549:4637" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="4717:4805" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="4883:4971" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="5049:5137" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="5215:5303" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="5381:5469" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="5547:5635" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="5713:5801" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="5879:5967" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="6045:6133" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="6211:6299" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="6378:6466" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="6545:6633" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="6711:6799" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="6877:6965" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="7043:7131" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="7209:7297" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="7540:7627" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="7707:7794" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="7872:7959" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="8037:8124" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="8202:8289" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="8367:8454" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="8532:8619" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="8697:8784" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="8862:8949" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="9027:9114" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="9192:9279" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="9358:9445" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="9524:9611" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="9689:9776" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="9854:9941" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="10019:10106" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="10184:10271" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="10497:10585" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="10657:10745" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="10815:10903" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="10973:11061" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="11131:11219" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="11289:11377" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="11447:11535" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="11605:11693" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="11763:11851" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="11921:12009" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="12079:12167" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="12238:12326" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="12397:12485" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="12555:12643" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="12713:12801" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="12871:12959" ph="insert into didi" />
+            <marker date="1509794944080" expanded="true" signature="13029:13117" ph="insert into didi" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addlocation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1509883421475" expanded="true" signature="516:571" ph="select locat... areatable" />
+            <marker date="1509883421475" expanded="true" signature="610:667" ph="select locat... areatable" />
+            <marker date="1509883421475" expanded="true" signature="707:762" ph="select locat... areatable" />
+            <marker date="1509883421475" expanded="true" signature="801:857" ph="select locat... areatable" />
+            <marker date="1509883421475" expanded="true" signature="896:952" ph="select locat... areatable" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3456">
+          <caret line="128" column="14" lean-forward="true" selection-start-line="128" selection-start-column="14" selection-end-line="128" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1509921619739" expanded="false" signature="4478:4528" ph="..." />
+            <marker date="1509921619739" expanded="false" signature="4621:4671" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xinshiqu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6048">
+          <caret line="224" column="27" lean-forward="true" selection-start-line="224" selection-start-column="27" selection-end-line="224" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapurmq.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1510134098125" expanded="true" signature="4579:4650" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="8842:8899" ph="select locat... areatable" />
+            <marker date="1510134098125" expanded="true" signature="9023:9076" ph="select locat... areatable" />
+            <marker date="1510134098125" expanded="true" signature="9023:9082" ph="select locat... areatable" />
+            <marker date="1510134098125" expanded="true" signature="9141:9198" ph="select locat... areatable" />
+            <marker date="1510134098125" expanded="true" signature="9260:9318" ph="select locat... areatable" />
+            <marker date="1510134098125" expanded="true" signature="9377:9435" ph="select locat... areatable" />
+            <marker date="1510134098125" expanded="true" signature="9864:9925" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="9864:9962" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="10082:10143" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="10082:10167" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="10285:10377" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="10495:10587" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="10705:10797" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="10915:11007" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="11125:11217" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="11335:11427" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="11545:11637" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="11755:11847" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="11965:12057" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="12176:12268" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="12387:12479" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="12597:12689" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="12807:12899" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="13017:13109" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="13227:13319" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="13570:13662" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="13782:13874" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="13992:14084" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="14202:14294" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="14412:14504" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="14622:14714" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="14832:14924" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="15042:15134" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="15252:15344" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="15462:15554" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="15672:15764" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="15883:15975" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="16094:16186" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="16304:16396" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="16514:16606" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="16724:16816" ph="insert into didi" />
+            <marker date="1510134098125" expanded="true" signature="16934:17026" ph="insert into didi" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
